@@ -19,7 +19,6 @@ public class Main {
         }
     }
 
-
     public static void task2() {
         Collections.sort(nums);
 

@@ -32,7 +32,7 @@ public class Main {
     }
 
 
-    public static void task3() {
+    public static void task3 () {
         Set<String> uniqueWords = new HashSet<>(words);
         System.out.println(uniqueWords);
     }
